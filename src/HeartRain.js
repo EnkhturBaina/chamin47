@@ -77,6 +77,11 @@ function HeartRain() {
 				<div className="greeting">
 					<div style={{ display: "flex", flexDirection: "column" }}>
 						<span style={{ fontSize: 15 }}>{randomWord}</span>
+						<span style={{ fontSize: 15 }}>
+							<a href="https://www.youtube.com/watch?v=V_uRcNLkZDo" target="_blank">
+								👉 Click me 🎶🎶🎶👈
+							</a>
+						</span>
 					</div>
 				</div>
 			</div>
