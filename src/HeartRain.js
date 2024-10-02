@@ -55,9 +55,9 @@ function HeartRain() {
 		);
 	}
 	return (
-		<>
+		<div style={{ flex: 1 }}>
 			<MyStopwatch />
-			<div className="drawBox">
+			<div className="">
 				<div className="smallHearts"></div>
 
 				<div className="mainHeart">
@@ -85,7 +85,7 @@ function HeartRain() {
 					</div>
 				</div>
 			</div>
-		</>
+		</div>
 	);
 }
 

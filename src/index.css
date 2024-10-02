@@ -75,7 +75,6 @@ body .greeting {
 	font-size: 24px;
 	position: absolute;
 	left: 0;
-	height: 60px;
 	line-height: 1;
 	/* overflow: hidden; */
 	display: flex;
@@ -92,4 +91,8 @@ body .greeting .s.space {
 }
 body .greeting .s.squeeze {
 	margin-left: -2px;
+}
+.emojiBtn {
+	cursor: pointer;
+	margin-right: 10px;
 }
