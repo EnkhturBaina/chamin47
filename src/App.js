@@ -7,6 +7,7 @@ import relax_emoji from "./relax_emoji.png";
 
 function App() {
 	const [page, setPage] = useState(1);
+
 	return (
 		<div className="App">
 			<div style={{ flex: 1 }}>
